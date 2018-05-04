@@ -165,6 +165,11 @@
                 <artifactId>gs-sldservice</artifactId>
                 <version>${gs.community.version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.geoserver.community</groupId>
+                <artifactId>gs-gwc-s3</artifactId>
+                <version>${gs.community.version}</version>
+            </dependency>
 
             <!-- hibernate dependencies -->
             <dependency>
